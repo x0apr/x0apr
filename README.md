@@ -1,3 +1,3 @@
 **Nakuramutsya** 👋
 
-I am a computer science graduate with a keen interest in software construction, cybersecurity and cloud computing.
+I am an IT administrator with a keen interest in cybersecurity and cloud computing.
